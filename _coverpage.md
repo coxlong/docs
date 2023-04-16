@@ -1,4 +1,4 @@
-![logo](_media/icon.ico)
+![logo](_media/coxlong_cn.png)
 
 # xlong's 笔记
 
